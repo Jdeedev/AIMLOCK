@@ -1,26 +1,29 @@
-# AIMLOCK
+# AimLock
 
-App de configuração de Aim Lock + No Recoil, construído em Python + PyQt5 para Windows.
+## About
+AimLock is an AI-powered training assistant focused on improving FPS gameplay performance through analysis, practice tools, and smart feedback systems.
 
-## Arquivos
+---
 
-- `aim_lock.py` — App principal com interface PyQt5 sem bordas
-- `requirements.txt` — PyQt5, mss, numpy, pynput
-- `setup_and_run.bat` — Instala tudo e abre o app automaticamente
-- `vscode/launch.json` — Debug no VS Code (F5)
+## Features
+- Aim training assistance  
+- Performance analysis  
+- Reaction time improvement tools  
+- Gameplay insights  
+- Training-focused environment  
 
-## Como usar
+---
 
-1. Baixe todos os arquivos para a mesma pasta
-2. Duplo clique em setup_and_run.bat
-3. Aguarde instalar e o app vai abrir
+## Goal
+Provide players with tools to improve their skills in FPS games without modifying or interfering with the game itself.
 
-## Requisitos
+---
 
-- Windows 10/11
-- Python 3.9+
+## Tech
+- AI analysis
+- Performance tracking
+- Training systems
 
-## Tabs
+---
 
-- AIM LOCK: FOV, cor alvo, snap power X/Y, max step X/Y, speed X/Y
-- NO RECOIL: recoil Y, delay, autofire, perfis de config
+AimLock ©
